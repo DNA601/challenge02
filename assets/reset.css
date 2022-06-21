@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+/*  box fit to page*/
+
+.navbar a {
+    float: right;
+    text-align: center;
+    padding: 30px 25px;
+    text-decoration: none;
+    font-size: 15px;
+    /* placement mof navagation  */
+}

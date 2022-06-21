@@ -1,3 +1,33 @@
 body {
-    background-color: rgb(30, 145, 245);
+    background-color: rgb(51, 88, 120);
+}
+
+.page-title {
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 48px;
+    color: rgb(250, 246, 246);
+    display: inline-block;
+}
+
+.navbar {
+    background-color: rgb(76, 177, 240);
+    overflow: hidden;
+}
+
+.navbar a {
+    color: #f2f2f2;
+}
+
+.navbar a:hover {
+    background-color: rgb(229, 15, 97);
+    color: black;
+}
+
+
+/* highlights on the navagation bar when cursor hovers */
+
+.navbar a.home {
+    background-color: #0a15e9;
+    color: white;
 }
