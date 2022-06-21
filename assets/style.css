@@ -31,3 +31,22 @@ body {
     background-color: #0a15e9;
     color: white;
 }
+
+.abt {
+    font-size: 100px;
+    padding: 300px;
+    margin: 300px;
+    background-image: url(../assets/images/jelly.jpg);
+    background-size: contain;
+    color: #a0c0de;
+}
+
+section {
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    color: #96c7e8;
+    font-size: 70px;
+}
