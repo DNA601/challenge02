@@ -38,6 +38,7 @@ body {
     margin: 300px;
     background-size: contain;
     color: #a0c0de;
+    text-align: center;
 }
 
 
@@ -67,7 +68,6 @@ section {
 }
 
 .gh {
-    background-image: url(../assets/images/Screenshot\ 2022-06-20\ 205340.png);
     font-size: 80px;
     padding: 100px;
     margin: 100px;
@@ -102,3 +102,6 @@ section {
         display: inline;
     }
 }
+
+
+/* This helps with the various screen sizes */
