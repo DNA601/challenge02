@@ -53,6 +53,10 @@ section {
     font-size: 70px;
 }
 
+.c {
+    text-align: center;
+}
+
 .abt {
     font-size: 80px;
     padding: 100px;
@@ -69,6 +73,7 @@ section {
     margin: 100px;
     background-size: contain;
     color: #a0c0de;
+    text-align: center;
 }
 
 @media(max-width:1360px) {
