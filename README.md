@@ -1,23 +1,32 @@
 # challenge02
 
 # Title
+Portfolio Page. 
 
 
 # Description
+Intended purpose for this application was to apply what I have learned so far at the UCB coding bootcamp.
+Tools
+-Html & CSS
+ I have created a portfolio page that includes a hyperlink to my very first deployed webpage. 
 
 # Installation
 
 
-# Credits
+# Created by
 github link
 
 https://github.com/DNA601?tab=repositories
+
+# Credits to... 
 
 https://www.w3schools.com/howto/howto_js_topnav.asp
 
 https://youtu.be/33IinMVJf-M
 
 https://www.codinglabweb.com/2021/03/navigation-bar-with-scroll-to-top.html
+
+A Thank you to these resources for helping me with my Challenge#2. 
 
 
 
